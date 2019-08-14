@@ -4,29 +4,27 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+TODO
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
+TODO
 </ul>
 
-<h2>Projects</h2>
+<h2>Recent Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<a href="https://github.com/russell-archer/SwiftUI-AlertDemo">SwiftUI Alert Demo</a>
+<p>Using SwiftUI to display alerts, actionsheets and popovers</p>
+
+<a href="https://github.com/russell-archer/SwiftUI-NavBarDemo">SwiftUI Navigation Bar Demo</a>
+<p>How to select either large navigation bar (the default) or a small, inline bar</p>
+
+<a href="https://github.com/russell-archer/SwiftUI-ImageAPIDemo">SwiftUI Image API Demo</a>
+<p>Using SwiftUI to consume REST API with image data</p>
+
+<a href="https://github.com/russell-archer/SwiftUI-ListDemo">SwiftUI List Demo</a>
+<p>Creating an editable list with SwiftUI with support for navigation</p>
+
+<a href="https://github.com/russell-archer/SwiftUI-StateDemo">SwiftUI State Demo</a>
+<p>Using state and binding to create a UI that responds to user input to modify internal state</p>
