@@ -3,7 +3,7 @@ name: Russell Archer
 bio: Developing iOS apps with Swift
 
 # twitter summary info
-description: Test description
+#description: Test description
 
 # if it's an external image, update below for true
 # better with square images
@@ -42,7 +42,7 @@ twitter: Russell_Archer
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/russell-archer
+github: russell-archer
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
