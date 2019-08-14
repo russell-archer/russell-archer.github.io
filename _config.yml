@@ -1,6 +1,6 @@
 # main text of home
 name: Russell Archer
-bio: Adventures with Swift
+bio: Developing iOS apps with Swift
 
 # twitter summary info
 description: Test description
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://russell-archer.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -31,18 +31,18 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/Russell_Archer
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/russell-archer
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,11 +55,11 @@ github: mygithub
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Russell Archer
+        bio: Developing iOS apps with Swift
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/profile.png
+        twitter: Russell_Archer
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
