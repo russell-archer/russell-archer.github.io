@@ -27,3 +27,6 @@ layout: page
 
 <a href="https://github.com/russell-archer/SwiftUI-NavBarDemo">SwiftUI Navigation Bar</a>
 <p>How to select either large navigation bar (the default) or a small, inline bar</p>
+
+<a href="https://github.com/russell-archer/SwiftUI-UIKitHostingSwiftUI">Hosting SwiftUI Views in UIKit</a>
+<p>Using UIHostingController to display a SwiftUI View in a UIKit app</p>
