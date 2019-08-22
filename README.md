@@ -1,22 +1,26 @@
 # Russell Archer
 
-<p align="center">![](./images/profile.png)</p>
+![](./images/profile.png)
 
 * Based in London and Sevenoaks, UK
 * Over 30 years experience in software development
 * Currently creating iOS apps with Swift
 * Contact for availability for iOS app development projects and contracts
 
-<p align="center">[![Twitter](./images/twitter.png)](https://twitter.com/Russell_Archer)</p>
+![](./images/twitter.png)
+https://twitter.com/Russell_Archer
 
-<p align="center">[![GitHub](./images/github.png)](https://russell-archer.github.io)</p>
+![](./images/github.png)
+https://russell-archer.github.io
 
-<p align="center">[![Web](./images/web.png)](https://rarcher.co.uk)</p>
+![](./images/web.png)
+https://rarcher.co.uk
 
-<p align="center">[![AppStore](./images/download.png)](https://apps.apple.com/app/writerly/id1143101981?ls=1)</p>
+![](./images/download.png)
+https://apps.apple.com/app/writerly/id1143101981?ls=1
 
-<p align="center">[![Email](./images/email.png)](russell.archer@mac.com)</p>
-
+![](./images/email.png)
+russell.archer@mac.com
 
 ## Recent Projects
 
