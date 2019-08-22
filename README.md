@@ -7,20 +7,20 @@
 * Currently creating iOS apps with Swift
 * Contact for availability for iOS app development projects and contracts
 
-![](./images/twitter.png)
-https://twitter.com/Russell_Archer
+![](./images/twitter.png)<br/>
+Twitter: https://twitter.com/Russell_Archer
 
-![](./images/github.png)
-https://russell-archer.github.io
+![](./images/github.png)<br/>
+GitHub: https://russell-archer.github.io
 
-![](./images/web.png)
-https://rarcher.co.uk
+![](./images/web.png)<br/>
+Web: https://rarcher.co.uk
 
-![](./images/download.png)
-https://apps.apple.com/app/writerly/id1143101981?ls=1
+![](./images/download.png)<br/>
+AppStore: https://apps.apple.com/app/writerly/id1143101981?ls=1
 
-![](./images/email.png)
-russell.archer@mac.com
+![](./images/email.png)<br/>
+Email: russell.archer@mac.com
 
 ## Recent Projects
 
