@@ -7,6 +7,7 @@
 * Currently creating iOS apps with Swift
 * Contact for availability for iOS app development projects and contracts
 
+
 ## Contact
 ![](./images/twitter.png) https://twitter.com/Russell_Archer
 
@@ -16,9 +17,11 @@
 
 ![](./images/email.png) russell.archer@mac.com
 
+
 ## Recent App Store Example
 ![](./images/download.png)<br/>
 https://apps.apple.com/app/writerly/id1143101981?ls=1
+
 
 ## Recent Projects
 
