@@ -17,7 +17,8 @@
 ![](./images/email.png) russell.archer@mac.com
 
 ## Recent App Store Example
-![](./images/download.png) https://apps.apple.com/app/writerly/id1143101981?ls=1
+![](./images/download.png)<br/>
+https://apps.apple.com/app/writerly/id1143101981?ls=1
 
 ## Recent Projects
 
