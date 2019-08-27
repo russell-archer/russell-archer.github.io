@@ -14,7 +14,7 @@
 
 <img src="./images/web.png" style="float: left; margin-right: 10px;" /> https://rarcher.co.uk
 
-<img src="./images/email.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer
+<img src="./images/email.png" style="float: left; margin-right: 10px;" /> russell.archer@mac.com
 
 
 ## Recent Projects
