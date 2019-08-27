@@ -8,13 +8,13 @@
 * Contact for availability for iOS app development projects and contracts
 
 ## Contact
-<a style="padding-bottom: 20px;"><img src="./images/twitter.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer</a>
+<img src="./images/twitter.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer
 
-<a><img src="./images/github.png" style="float: left; margin-right: 10px;" /> https://russell-archer.github.io</a>
+<img src="./images/github.png" style="float: left; margin-right: 10px;" /> https://russell-archer.github.io
 
-<a><img src="./images/web.png" style="float: left; margin-right: 10px;" /> https://rarcher.co.uk</a>
+<img src="./images/web.png" style="float: left; margin-right: 10px;" /> https://rarcher.co.uk
 
-<a><img src="./images/email.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer</a>
+<img src="./images/email.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer
 
 
 ## Recent Projects
