@@ -8,7 +8,7 @@
 * Contact for availability for iOS app development projects and contracts
 
 ## Contact
-<a><img src="./images/twitter.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer</a>
+<a style="padding-bottom: 20px;"><img src="./images/twitter.png" style="float: left; margin-right: 10px;" /> https://twitter.com/Russell_Archer</a>
 
 <a><img src="./images/github.png" style="float: left; margin-right: 10px;" /> https://russell-archer.github.io</a>
 
