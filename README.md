@@ -19,7 +19,7 @@
 
 ## Recent Projects
 
-### Dark Mode and UIKit. Updating an existing App Store app
+### Dark Mode. Updating an existing App Store app
 https://github.com/russell-archer/DarkModeDemo-UIKit<br/>
 Preparing for iOS 13 Dark Mode
 
