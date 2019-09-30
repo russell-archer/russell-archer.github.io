@@ -19,6 +19,10 @@
 
 ## Recent Projects
 
+### Sign in with Apple
+https://github.com/russell-archer/AppleSignInDemo
+How to use the new Sign in with Apple service in a UIKit and iOS 13 app
+
 ### Dark Mode. Updating an existing App Store app
 https://github.com/russell-archer/DarkModeDemo-UIKit<br/>
 Preparing for iOS 13 Dark Mode
