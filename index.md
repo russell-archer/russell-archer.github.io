@@ -1,6 +1,8 @@
-# Russell Archer
-
-![](./images/profile.png)
+---
+layout: page
+title: Russell Archer
+subtitle: Portfolio for Russell Archer
+---
 
 * Based in London and Sevenoaks, UK
 * Over 30 years experience in software development
