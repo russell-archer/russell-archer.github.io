@@ -19,10 +19,12 @@ Contact me for availability for iOS app development projects and contracts.
 ## Recent App Store Projects
 [Writerly](https://russell-archer.github.io/Writerly/)<br/>
 The creative writing app designed to help spark your ideas into life.
+
 ![](/img/writerly-ad1.png)
 
 [Retreev](https://russell-archer.github.io/Retreev/)<br/>
 When you really need a ride home.
+
 ![](/img/retreev-ad1.png)
 
 ## All Repositories
