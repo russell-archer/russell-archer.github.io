@@ -2,8 +2,12 @@
 layout: page
 title: Russell Archer
 subtitle: Portfolio for Russell Archer
+bigimg: /img/notebook-886532_1920.jpg
 ---
 
+I'm a software developer based in London and Sevenoaks, where I'm currently creating iOS apps with Swift.
+I have over 30 years experience in the industry with many different technologies and roles.
+Contact me regarding availability for iOS app development projects and contracts.
 
 Twitter: https://twitter.com/Russell_Archer
 
@@ -11,10 +15,8 @@ GitHub: https://russell-archer.github.io
 
 Email: russell.archer@mac.com
 
-* Based in London and Sevenoaks, UK
-* Over 30 years experience in software development
-* Currently creating iOS apps with Swift
-* Contact for availability for iOS app development projects and contracts
+## Recent App Store Projects
+TODO
 
 ## Recent Projects
 
