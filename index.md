@@ -16,7 +16,11 @@ Contact me regarding availability for iOS app development projects and contracts
 * [Email](mailto:russellDOTarcherATmac.com)
 
 ## Recent App Store Projects
-TODO
+[Writerly](https://russell-archer.github.io/Writerly/)
+The creative writing app designed to help spark your ideas into life.
+
+[Retreev](https://russell-archer.github.io/Retreev/)
+When you really need a ride home.
 
 ### All Repositories
 [GitHub](https://github.com/russell-archer?tab=repositories)<br/>
