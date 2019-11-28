@@ -9,21 +9,24 @@ bigimg: /img/notebook-886532_1920.jpg
 
 I'm a software developer based in London and Sevenoaks, where I'm currently creating iOS apps with Swift.
 I have over 30 years experience in the industry with many different technologies and roles.
-Contact me regarding availability for iOS app development projects and contracts.
+
+Contact me for availability for iOS app development projects and contracts.
 
 * [Twitter](https://twitter.com/Russell_Archer)
 * [GitHub](https://russell-archer.github.io)
 * [Email](mailto:russellDOTarcherATmac.com)
 
 ## Recent App Store Projects
-[Writerly](https://russell-archer.github.io/Writerly/)
+[Writerly](https://russell-archer.github.io/Writerly/)<br/>
 The creative writing app designed to help spark your ideas into life.
+![](/img/writerly-ad1.png)
 
-[Retreev](https://russell-archer.github.io/Retreev/)
+[Retreev](https://russell-archer.github.io/Retreev/)<br/>
 When you really need a ride home.
+![](/img/retreev-ad1.png)
 
-### All Repositories
-[GitHub](https://github.com/russell-archer?tab=repositories)<br/>
+## All Repositories
+[View all my repositories on GitHub](https://github.com/russell-archer?tab=repositories)<br/>
 
 ## Recent Projects
 [Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
