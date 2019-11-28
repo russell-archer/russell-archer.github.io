@@ -8,6 +8,7 @@ layout: null
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
+  width: 100%
   font-size: 18px;
   color: #404040;
   position: relative;

@@ -5,7 +5,9 @@ subtitle: Portfolio for Russell Archer
 bigimg: /img/notebook-886532_1920.jpg
 ---
 
-![](/img/designCons-2.png)
+<p align="center">
+    <img src="./img/designCons-2.png" />
+</p>
 
 I'm a software developer based in London and Sevenoaks, where I'm currently creating iOS apps with Swift.
 I have over 30 years experience in the industry with many different technologies and roles.
@@ -14,18 +16,22 @@ Contact me for availability for iOS app development projects and contracts.
 
 * [Twitter](https://twitter.com/Russell_Archer)
 * [GitHub](https://russell-archer.github.io)
-* [Email](mailto:russellDOTarcherATmac.com)
+* [Email](mailto:russell.archer@mac.com)
 
 ## Recent App Store Projects
 [Writerly](https://russell-archer.github.io/Writerly/)<br/>
 The creative writing app designed to help spark your ideas into life.
 
-![](/img/writerly-ad1.png)
+<p align="center">
+    <img src="./img/writerly-ad1.png" />
+</p>
 
 [Retreev](https://russell-archer.github.io/Retreev/)<br/>
 When you really need a ride home.
 
-![](/img/retreev-ad1.png)
+<p align="center">
+    <img src="./img/retreev-ad1.png" />
+</p>
 
 ## All Repositories
 [View all my repositories on GitHub](https://github.com/russell-archer?tab=repositories)<br/>
