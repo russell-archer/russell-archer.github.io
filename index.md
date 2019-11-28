@@ -5,17 +5,15 @@ subtitle: Portfolio for Russell Archer
 bigimg: /img/notebook-886532_1920.jpg
 ---
 
-![](/img/designCons-1.png)
+![](/img/designCons-2.png)
 
 I'm a software developer based in London and Sevenoaks, where I'm currently creating iOS apps with Swift.
 I have over 30 years experience in the industry with many different technologies and roles.
 Contact me regarding availability for iOS app development projects and contracts.
 
-[Twitter](https://twitter.com/Russell_Archer)
-
-[GitHub](https://russell-archer.github.io)
-
-[Email](mailto:russell.archer@mac.com)
+* [Twitter](https://twitter.com/Russell_Archer)
+* [GitHub](https://russell-archer.github.io)
+* [Email](mailto:russellDOTarcherATmac.com)
 
 ## Recent App Store Projects
 TODO
