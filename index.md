@@ -19,7 +19,7 @@ Contact me for availability for iOS app development projects and contracts.
 * [Email](mailto:russell.archer@mac.com)
 
 ## Current App Store Project
-[BookTag](https://github.com/russell-archer/BookTag)
+[BookTag](https://github.com/russell-archer/BookTag)<br/>
 **Private repo**. Public documentation not yet available.
 
 ## Recent App Store Projects
@@ -36,7 +36,7 @@ The creative writing app designed to help spark your ideas into life.
 When you really need a ride home.
 
 <p align="center">
-    <img src="./img/retreev-quote-big.png" />
+    <img src="./img/retreev-quote-big.jpg" />
 </p>
 
 ## All Repositories
