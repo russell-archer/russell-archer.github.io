@@ -46,19 +46,19 @@ When you really need a ride home.
 [Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
 How to use the new Sign in with Apple service in a UIKit and iOS 13 app.
 
-[Speech Dictation Demo](https://github.com/russell-archer/SpeechDictationDemo)
+[Speech Dictation Demo](https://github.com/russell-archer/SpeechDictationDemo)<br/>
 An iOS speech recognition demo that transcribes live speech.
 
 [Dark Mode. Updating an existing App Store app](https://github.com/russell-archer/DarkModeDemo-UIKit)<br/>
 Preparing for iOS 13 Dark Mode.
 
-[iOS 13 Modal Styles Demo](https://github.com/russell-archer/ModalStylesDemo)
+[iOS 13 Modal Styles Demo](https://github.com/russell-archer/ModalStylesDemo)<br/>
 Exploring the differences between presentViewController and pushViewController with new iOS 13 modal presentation styles.
 
-[Context Menu Demo](https://github.com/russell-archer/ContextMenuDemo)
+[Context Menu Demo](https://github.com/russell-archer/ContextMenuDemo)<br/>
 How to display a context menu in iOS 13.
 
-[Image API Alamofire](https://github.com/russell-archer/ImageApiAlamofire)
+[Image API Alamofire](https://github.com/russell-archer/ImageApiAlamofire)<br/>
 Alamofire Pixabay Image API Demo with Swift Package Manager.
 
 [SwiftUI and Combine Notifications](https://github.com/russell-archer/SwiftUI-Combine-NotificationDemo)<br/>
@@ -85,17 +85,17 @@ Using SwiftUI to consume REST API with image data.
 [SwiftUI Alert](https://github.com/russell-archer/SwiftUI-AlertDemo)<br/>
 Using SwiftUI to display alerts, actionsheets and popovers.
 
-[Hangman Game](https://github.com/russell-archer/Hangman)
+[Hangman Game](https://github.com/russell-archer/Hangman)<br/>
 Simple, non-graphical Hangman game.
 
-[Siri Shortcuts. Show Random Color Demo](https://github.com/russell-archer/ShowRandomColor)
+[Siri Shortcuts. Show Random Color Demo](https://github.com/russell-archer/ShowRandomColor)<br/>
 Demo of Siri shortcuts for iOS 12 using Intents.
 
-[Siri Shortcuts. PicSearch](https://github.com/russell-archer/PicSearch)
+[Siri Shortcuts. PicSearch](https://github.com/russell-archer/PicSearch)<br/>
 Demo of Siri shortcuts for iOS 12 using NSUserActivity.
 
-[Pixabay Image API Demo](https://github.com/russell-archer/ImageApiDemo)
+[Pixabay Image API Demo](https://github.com/russell-archer/ImageApiDemo)<br/>
 App that requests image data using the Pixabay API.
 
-[Cal Demo](https://github.com/russell-archer/CalDemo)
+[Cal Demo](https://github.com/russell-archer/CalDemo)<br/>
 Demo for getting events from iOS calendars.
