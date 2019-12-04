@@ -31,8 +31,19 @@ Contact me for availability for iOS app development projects and contracts.
 
 <hr />
 ## Recent App Store Projects
-[Writerly](https://russell-archer.github.io/Writerly/)<br/>
+## [Writerly](https://russell-archer.github.io/Writerly/)<br/>
+
 **Private repo**. Public documentation available.<br/>
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
+    <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=1299F3">
+    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=F76831">
+</p>
+
 *The creative writing app designed to help spark your ideas into life.*
 
 Writerly is a creative writing
