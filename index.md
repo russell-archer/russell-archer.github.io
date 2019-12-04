@@ -14,13 +14,21 @@ I have over 30 years experience in the industry with many different technologies
 
 Contact me for availability for iOS app development projects and contracts.
 
-* [Twitter](https://twitter.com/Russell_Archer)
-* [GitHub](https://russell-archer.github.io)
-* [Email](mailto:russell.archer@mac.com)
+<p align="center">
+	<a href="https://russell-archer.github.io">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyor&label=GitHub&message=Russell%20Archer&color=lightgray">
+	</a>
+    <a href="https://twitter.com/Russell_Archer">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyor&label=Twitter&message=Russell%20Archer&color=00ACEE">
+	</a>
+	<a href="mailto:russell.archer@mac.com">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyor&label=Email&message=Russell%20Archer&color=F76831">
+	</a>
+	<a href="./russell-archer-cv-short.pdf">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyorlabel=CV&message=PDF&color=green">
+	</a>
+</p>
 
-## Current App Store Project
-[BookTag](https://github.com/russell-archer/BookTag)<br/>
-**Private repo**. Public documentation not yet available.
 
 ## Recent App Store Projects
 [Writerly](https://russell-archer.github.io/Writerly/)<br/>
@@ -39,10 +47,9 @@ When you really need a ride home.
     <img src="./img/retreev-quote-big.jpg" />
 </p>
 
-## All Repositories
-[View all my repositories on GitHub](https://github.com/russell-archer?tab=repositories)<br/>
 
 ## Recent Projects
+
 [Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
 How to use the new Sign in with Apple service in a UIKit and iOS 13 app.
 
