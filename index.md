@@ -30,16 +30,18 @@ Contact me for availability for iOS app development projects and contracts.
 </p>
 
 <hr />
-## Recent App Store Projects
-## [Writerly](https://russell-archer.github.io/Writerly/)<br/>
+## <p align="center">Recent App Store Projects</>
+<p />
 
-**Private repo**. Public documentation available.<br/>
+## [Writerly](https://russell-archer.github.io/Writerly/)<br/>
+**Private repo**. [Public documentation available](https://russell-archer.github.io/Writerly/)<br/>
 
 <p align="center">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=F76831">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
     <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=1299F3">
     <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=F76831">
 </p>
