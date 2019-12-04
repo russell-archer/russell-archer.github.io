@@ -16,24 +16,26 @@ Contact me for availability for iOS app development projects and contracts.
 
 <p align="center">
 	<a href="https://russell-archer.github.io">
-		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyor&label=GitHub&message=Russell%20Archer&color=lightgray">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=GitHub&label=GitHub&message=Russell%20Archer&color=lightgray">
 	</a>
     <a href="https://twitter.com/Russell_Archer">
-		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyor&label=Twitter&message=Russell%20Archer&color=00ACEE">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=Twitter&label=Twitter&message=Russell%20Archer&color=00ACEE">
 	</a>
 	<a href="mailto:russell.archer@mac.com">
-		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyor&label=Email&message=Russell%20Archer&color=F76831">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Email&message=Russell%20Archer&color=F76831">
 	</a>
 	<a href="./russell-archer-cv-short.pdf">
-		<img src="https://img.shields.io/static/v1?style=flat-square&logo=appveyorlabel=CV&message=PDF&color=green">
+		<img src="https://img.shields.io/static/v1?style=flat-square&logo=Adobe-Acrobat-Reader&label=CV&message=PDF&color=green">
 	</a>
 </p>
 
-
+<hr />
 ## Recent App Store Projects
 [Writerly](https://russell-archer.github.io/Writerly/)<br/>
 **Private repo**. Public documentation available.<br/>
-The creative writing app designed to help spark your ideas into life.
+*The creative writing app designed to help spark your ideas into life.*
+
+Writerly is a creative writing
 
 <p align="center">
     <img src="./img/writerly-ad1.png" />
@@ -41,13 +43,13 @@ The creative writing app designed to help spark your ideas into life.
 
 [Retreev](https://russell-archer.github.io/Retreev/)<br/>
 **Private repo**. Public documentation available.<br/>
-When you really need a ride home.
+*When you really need a ride home.*
 
 <p align="center">
     <img src="./img/retreev-quote-big.jpg" />
 </p>
 
-
+<hr />
 ## Recent Projects
 
 [Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
