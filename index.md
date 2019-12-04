@@ -30,40 +30,53 @@ Contact me for availability for iOS app development projects and contracts.
 </p>
 
 <hr />
-## <p align="center">Recent App Store Projects</>
-<p />
+<h2 align="center">Recent App Store Projects</h2>
+<p>&nbsp;</p>
 
 ## [Writerly](https://russell-archer.github.io/Writerly/)<br/>
-**Private repo**. [Public documentation available](https://russell-archer.github.io/Writerly/)<br/>
+**Private repo**. [Public documentation available](https://russell-archer.github.io/Writerly/).<br/>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=F76831">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9"><br />
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
     <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=1299F3">
     <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=F76831">
 </p>
 
-*The creative writing app designed to help spark your ideas into life.*
+*Inspiration for Writers.*
 
-Writerly is a creative writing
+**Writerly** is an app designed to help inspire and teach creative writing. I developed it in cooperation with a very experienced
+author and creative writing tutor.
 
 <p align="center">
     <img src="./img/writerly-ad1.png" />
 </p>
 
-[Retreev](https://russell-archer.github.io/Retreev/)<br/>
-**Private repo**. Public documentation available.<br/>
+## [Retreev](https://russell-archer.github.io/Retreev/)<br/>
+**Private repo**. [Public documentation available](https://russell-archer.github.io/Retreev/).<br/>
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9"><br />
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
+    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=F76831">
+</p>
+
 *When you really need a ride home.*
+
+**Retreev** was developed in reponse to a simple, but common problem: how to request a ride home from a parent or friend
+and let them know exactly where you are!
 
 <p align="center">
     <img src="./img/retreev-quote-big.jpg" />
 </p>
 
 <hr />
-## Recent Projects
+<h2 align="center">Recent App Store Projects</h2>
 
 [Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
 How to use the new Sign in with Apple service in a UIKit and iOS 13 app.
