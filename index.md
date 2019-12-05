@@ -5,17 +5,17 @@ subtitle: Portfolio for Russell Archer
 bigimg: /img/notebook-886532_1920.jpg
 ---
 
+I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS apps with Swift.
+I have over 30 years experience in the industry in many different roles and with a range of technologies.
+
 <p align="center">
     <img src="./img/designCons-2.png" />
 </p>
 
-I'm a software developer based in London and Sevenoaks, where I'm currently creating iOS apps with Swift.
-I have over 30 years experience in the industry with many different technologies and roles.
-
 Contact me for availability for iOS app development projects and contracts.
 
 <p align="center">
-	<a href="https://russell-archer.github.io">
+	<a href="https://github.com/russell-archer">
 		<img src="https://img.shields.io/static/v1?style=flat-square&logo=GitHub&label=GitHub&message=Russell%20Archer&color=lightgray">
 	</a>
     <a href="https://twitter.com/Russell_Archer">
@@ -30,11 +30,18 @@ Contact me for availability for iOS app development projects and contracts.
 </p>
 
 <hr />
-<h2 align="center">Recent App Store Projects</h2>
+<h1 align="center">Recent App Store Projects</h1>
 <p>&nbsp;</p>
 
-## [Writerly](https://russell-archer.github.io/Writerly/)<br/>
-**Private repo**. [Public documentation available](https://russell-archer.github.io/Writerly/).<br/>
+<p align="center">
+    <img src="./img/writerly-icon-rounded.png" />
+</p>
+<h2 align="center">
+    <a href="https://russell-archer.github.io/Writerly/">Writerly</a>
+</h2>
+
+Repo: **Private**<br/>
+Documentation: [Public documentation available](https://russell-archer.github.io/Writerly/)<br/>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
@@ -55,8 +62,17 @@ author and creative writing tutor.
     <img src="./img/writerly-ad1.png" />
 </p>
 
-## [Retreev](https://russell-archer.github.io/Retreev/)<br/>
-**Private repo**. [Public documentation available](https://russell-archer.github.io/Retreev/).<br/>
+<hr />
+
+<p align="center">
+    <img src="./img/retreev-icon-rounded.png" />
+</p>
+<h2 align="center">
+    <a href="https://russell-archer.github.io/Retreev/">Retreev</a>
+</h2>
+
+Repo: **Private**<br/>
+Documentation: [Public documentation available](https://russell-archer.github.io/Retreev/)<br/>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
@@ -76,7 +92,7 @@ and let them know exactly where you are!
 </p>
 
 <hr />
-<h2 align="center">Recent App Store Projects</h2>
+<h2 align="center">Recent Projects</h2>
 
 [Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
 How to use the new Sign in with Apple service in a UIKit and iOS 13 app.
