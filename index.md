@@ -59,7 +59,13 @@ Documentation: [Public documentation available](https://russell-archer.github.io
 author and creative writing tutor.
 
 <p align="center">
-    <img src="./img/writerly-ad1.png" />
+    <img src="./img/writerly-ad1.png" />  
+</p>
+
+<p align="center">
+    <img src="./img/writerly-ss1.png" />
+    <img src="./img/writerly-ss4.png" />    
+    <img src="./img/writerly-ss5.png" />    
 </p>
 
 <hr />
@@ -89,6 +95,12 @@ and let them know exactly where you are!
 
 <p align="center">
     <img src="./img/retreev-quote-big.jpg" />
+</p>
+
+<p align="center">
+    <img src="./img/retreev-ss1.png" />
+    <img src="./img/retreev-ss2.png" />    
+    <img src="./img/retreev-ss3.png" />    
 </p>
 
 <hr />
