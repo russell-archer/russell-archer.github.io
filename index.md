@@ -12,7 +12,9 @@ I have over 30 years experience in the industry in many different roles and with
     <img src="./img/designCons-2.png" />
 </p>
 
-Contact me for availability for iOS app development projects and contracts.
+<p align="center">
+    Contact me for availability for iOS app development projects and contracts:
+</p>
 
 <p align="center">
 	<a href="https://github.com/russell-archer">
@@ -40,23 +42,44 @@ Contact me for availability for iOS app development projects and contracts.
     <a href="https://russell-archer.github.io/Writerly/">Writerly</a>
 </h2>
 
-Repo: **Private**<br/>
-Documentation: [Public documentation available](https://russell-archer.github.io/Writerly/)<br/>
-
 <p align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9"><br />
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
-    <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=1299F3">
-    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=F76831">
+    <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=941100">
+    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
 </p>
 
-*Inspiration for Writers.*
+<h3 align="center"><em>Inspiration for Writers</em></h3>
 
-**Writerly** is an app designed to help inspire and teach creative writing. I developed it in cooperation with a very experienced
-author and creative writing tutor.
+**Writerly** is an iOS app designed to help users improve their creative writing through a series of techniques, tools, exercises,
+and quests. It includes a number of "generators" that are used to create random *characters*, *moods*, *scenarios*, *locations*,
+writing *prompts*, etc. I developed the app in cooperation with an award-winning creative writing tutor and author.
+
+In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
+However, the app has been designed to provide real benefits to the user without cost. The free app isn't merely a vehicle for in-app
+purchases.
+
+Technically, the main features of the app are:
+
+* Developed in *Swift* (currently Swift 5)
+
+* A *UISplitViewController* allows selection of topic in the left (master) pane, with the a page of content shown in the right (detail) pane
+
+* Content is broken into *modules*, *topics*, *sub-topics* and *pages*, with the entire structure of the app's content defined as a collection of dictionaries in a *.plist* file, allowing for easy changes and additions
+
+* Navigation between *pages* uses a *UISwipeGestureRecognizer* to support swipe-left to advance to the next topic and swipe-right to go to the previous topic
+
+* Many exercises are timed and *notifications* are used to alert the user when their time is up
+
+* To enable easy changes and additions, text content is defined as *HTML/Javascript* and hosted in a *WKWebView*
+
+* Two-way message interop between the iOS core of the app and Javascript uses *WebKit*'s ability to evaluate JavaScript statements and handle in-coming messages from Javascript (*WKScriptMessageHandler*)
+
+* In-app purchases are made and restored using *StoreKit* and receipts validated using *OpenSSL*
+
+* Analytics was initially done via *Fabric Crashlytics and Answers* (now moved to *Google Firebase*)
 
 <p align="center">
     <img src="./img/writerly-ad1.png" />  
@@ -83,9 +106,8 @@ Documentation: [Public documentation available](https://russell-archer.github.io
 <p align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Xcode&label=IDE&message=Xcode&color=1575F9"><br />
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
-    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=F76831">
+    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
 </p>
 
 *When you really need a ride home.*
