@@ -13,7 +13,7 @@ I have over 30 years experience in the industry in many different roles and with
 </p>
 
 <p align="center">
-    Contact me for availability for iOS app development projects and contracts:
+    <strong>Contact me for availability for iOS app development projects and contracts</strong>
 </p>
 
 <p align="center">
@@ -36,93 +36,153 @@ I have over 30 years experience in the industry in many different roles and with
 <p>&nbsp;</p>
 
 <p align="center">
-    <img src="./img/writerly-icon-rounded.png" />
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="./img/writerly-icon-rounded.png" />
+    </a>
 </p>
+
 <h2 align="center">
     <a href="https://russell-archer.github.io/Writerly/">Writerly</a>
 </h2>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
-    <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=941100">
-    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=941100">
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
+    </a>
 </p>
 
-<h3 align="center"><em>Inspiration for Writers</em></h3>
+<h3 align="center">
+    <a href="https://russell-archer.github.io/Writerly/">Inspiration for Writers</a>
+</h3>
 
-**Writerly** is an iOS app designed to help users improve their creative writing through a series of techniques, tools, exercises,
-and quests. It includes a number of "generators" that are used to create random *characters*, *moods*, *scenarios*, *locations*,
-writing *prompts*, etc. I developed the app in cooperation with an award-winning creative writing tutor and author.
+**Writerly** is an iOS app designed to help users improve their creative writing through a series of tried-and-tested techniques, tools
+and exercises. It includes the ability to create random *characters*, *moods*, *scenarios*, *locations*, writing *prompts*, etc.
+
+I developed the app in cooperation with an award-winning creative writing tutor and author.
+
+<p align="center">
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="./img/writerly-quote.png" />
+    </a>
+</p>
 
 In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
 However, the app has been designed to provide real benefits to the user without cost. The free app isn't merely a vehicle for in-app
 purchases.
 
-Technically, the main features of the app are:
-
-* Developed in *Swift* (currently Swift 5)
-
-* A *UISplitViewController* allows selection of topic in the left (master) pane, with the a page of content shown in the right (detail) pane
-
-* Content is broken into *modules*, *topics*, *sub-topics* and *pages*, with the entire structure of the app's content defined as a collection of dictionaries in a *.plist* file, allowing for easy changes and additions
-
-* Navigation between *pages* uses a *UISwipeGestureRecognizer* to support swipe-left to advance to the next topic and swipe-right to go to the previous topic
-
-* Many exercises are timed and *notifications* are used to alert the user when their time is up
-
-* To enable easy changes and additions, text content is defined as *HTML/Javascript* and hosted in a *WKWebView*
-
-* Two-way message interop between the iOS core of the app and Javascript uses *WebKit*'s ability to evaluate JavaScript statements and handle in-coming messages from Javascript (*WKScriptMessageHandler*)
-
-* In-app purchases are made and restored using *StoreKit* and receipts validated using *OpenSSL*
-
-* Analytics was initially done via *Fabric Crashlytics and Answers* (now moved to *Google Firebase*)
-
 <p align="center">
-    <img src="./img/writerly-ad1.png" />  
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="./img/writerly-ad1.png" />
+    </a>
 </p>
 
+Technically, the main features of the app are:
+
+* <sub>Developed in ***Swift*** (currently ***Swift 5***)</sub>
+* <sub>A ***UISplitViewController*** allows selection of topic in the left (master) pane, with the a page of content shown in the right (detail) pane</sub>
+* <sub>Content is broken into *modules*, *topics*, *sub-topics* and *pages*, with the entire structure of the app's content defined as a dictionary in a ***.plist*** file, allowing for easy changes and additions</sub>
+* <sub>Navigation between *pages* uses a ***UISwipeGestureRecognizer*** to support swipe-left to advance to the next topic and swipe-right to go to the previous topic</sub>
+* <sub>Many exercises are timed and ***notifications*** are used to alert the user when their time is up</sub>
+* <sub>To enable easy changes and additions, text content is defined through ***HTML/Javascript*** and hosted in a ***WKWebView***</sub>
+* <sub>Two-way message interop between the iOS core of the app and Javascript uses ***WebKit***'s ability to evaluate JavaScript statements and handle messages from Javascript (***WKScriptMessageHandler***)</sub>
+* <sub>In-app purchases are made and restored using ***StoreKit*** and receipts validated using ***OpenSSL***</sub>
+* <sub>The app keeps track of completed exercises and syncs app state via *NSUbiquitousKeyValueStore* **iCloud key-value storage**</sub>
+* <sub>Analytics are handled via ***Fabric Crashlytics*** and ***Fabric Answers*** (recently transitioned to ***Google Firebase***)</sub>
+
 <p align="center">
-    <img src="./img/writerly-ss1.png" />
-    <img src="./img/writerly-ss4.png" />    
-    <img src="./img/writerly-ss5.png" />    
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="./img/writerly-ss1.png" />
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="./img/writerly-ss4.png" />
+    </a>
+    <a href="https://russell-archer.github.io/Writerly/">
+        <img src="./img/writerly-ss5.png" />
+    </a>
 </p>
 
 <hr />
 
 <p align="center">
-    <img src="./img/retreev-icon-rounded.png" />
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="./img/retreev-icon-rounded.png" />
+    </a>
 </p>
+
 <h2 align="center">
     <a href="https://russell-archer.github.io/Retreev/">Retreev</a>
 </h2>
 
-Repo: **Private**<br/>
-Documentation: [Public documentation available](https://russell-archer.github.io/Retreev/)<br/>
-
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
-    <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
+    </a>
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
+    </a>
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
+    </a>
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
+    </a>
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="https://img.shields.io/static/v1?label=Framework&message=Contacts&color=yellow">
+    </a>  
 </p>
 
-*When you really need a ride home.*
+<h3 align="center">
+    <a href="https://russell-archer.github.io/Retreev/">When you really need a ride home</a>
+</h3>
 
-**Retreev** was developed in reponse to a simple, but common problem: how to request a ride home from a parent or friend
+**Retreev** was developed in reponse to a simple, but common problem: how to *quickly and easily* request a ride home from a parent or friend
 and let them know exactly where you are!
 
-<p align="center">
-    <img src="./img/retreev-quote-big.jpg" />
-</p>
+The app displays a map showing the user their current location and postal address. Tapping a contact zooms the map to show the
+location of both the user and the contact (sounds easy, but this was *tricky*!), as well as the distance between them.
+Tapping the "retreev" button generates an SMS message that includes a predefined (editable) message, the user's current
+location address and an *annotated* map showing the location and distance.
 
 <p align="center">
-    <img src="./img/retreev-ss1.png" />
-    <img src="./img/retreev-ss2.png" />    
-    <img src="./img/retreev-ss3.png" />    
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="./img/retreev-quote-big.jpg" />
+    </a>
+</p>
+
+Technically, the main features of the app are:
+
+* <sub>Developed in ***Swift*** (currently ***Swift 5***)</sub>
+* <sub>Uses the ***Contacts*** framework to import user-selected contact details</sub>
+* <sub>Uses ***CoreLocation*** to ***Geocode*** (get lat/long from an address) and ***Reverse Geocode*** (get address from lat/long)</sub>
+* <sub>Creates a custom bitmap graphics context to ***capture a map snapshot*** and ***annotate*** it with address info, etc.</sub>
+* <sub>Supports ***sharing*** with WhatsApp, email, etc.</sub>
+* <sub>Uses the ***MessageUI*** framework to send SMS messages</sub>
+
+<p align="center">
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="./img/retreev-ss1.png" />
+    </a>
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="./img/retreev-ss2.png" />
+    </a>
+    <a href="https://russell-archer.github.io/Retreev/">
+        <img src="./img/retreev-ss3.png" />
+    </a>
 </p>
 
 <hr />
