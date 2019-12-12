@@ -26,9 +26,7 @@ I have over 30 years experience in the industry in many different roles and with
 	<a href="mailto:russell.archer@mac.com">
 		<img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Email&message=Russell%20Archer&color=F76831">
 	</a>
-	<a href="./russell-archer-cv-short.pdf">
-		<img src="https://img.shields.io/static/v1?style=flat-square&logo=Adobe-Acrobat-Reader&label=CV&message=PDF&color=green">
-	</a>
+	<img src="https://img.shields.io/static/v1?style=flat-square&logo=Adobe-Acrobat-Reader&label=CV/Resume&message=PDF&color=green">
 </p>
 
 <hr />
@@ -186,61 +184,95 @@ Technically, the main features of the app are:
 </p>
 
 <hr />
-<h2 align="center">Recent Projects</h2>
+<h2 align="center">Recent GitHub Projects</h2>
+<p>&nbsp;</p>
 
-[Sign in with Apple](https://github.com/russell-archer/AppleSignInDemo)<br/>
-How to use the new Sign in with Apple service in a UIKit and iOS 13 app.
+<h3><a href="https://github.com/russell-archer/AppleSignInDemo">Sign in with Apple</a></h3>
+How to use the new Sign in with Apple service in a UIKit and iOS 13 app.<br/>
+<img src="./img/github-project-signin-with-apple.jpg" />
 
-[Speech Dictation Demo](https://github.com/russell-archer/SpeechDictationDemo)<br/>
-An iOS speech recognition demo that transcribes live speech.
+<hr />
+<h3><a href="https://github.com/russell-archer/SpeechDictationDemo">Speech Dictation and Transcription Demo</a></h3>
+An iOS speech recognition demo that transcribes live speech.<br/>
+<img src="./img/github-project-speech.jpg" />
 
-[Dark Mode. Updating an existing App Store app](https://github.com/russell-archer/DarkModeDemo-UIKit)<br/>
-Preparing for iOS 13 Dark Mode.
+<hr />
+<h3><a href="https://github.com/russell-archer/DarkModeDemo-UIKit">Dark Mode. Updating an existing App Store app</a></h3>
+Preparing for iOS 13 Dark Mode.<br/>
+<img src="./img/github-project-darkmode.jpg" />
 
-[iOS 13 Modal Styles Demo](https://github.com/russell-archer/ModalStylesDemo)<br/>
-Exploring the differences between presentViewController and pushViewController with new iOS 13 modal presentation styles.
+<hr />
+<h3><a href="https://github.com/russell-archer/ModalStylesDemo">iOS 13 Modal Styles Demo</a></h3>
+Exploring the differences between presentViewController and pushViewController with new iOS 13 modal presentation styles.<br/>
+<img src="./img/github-project-modal-styles.jpg" />
 
-[Context Menu Demo](https://github.com/russell-archer/ContextMenuDemo)<br/>
-How to display a context menu in iOS 13.
+<hr />
+<h3><a href="https://github.com/russell-archer/ContextMenuDemo">Context Menu Demo</a></h3>
+How to display a context menu in iOS 13.<br/>
+<img src="./img/github-project-context-menu.jpg" />
 
-[Image API Alamofire](https://github.com/russell-archer/ImageApiAlamofire)<br/>
-Alamofire Pixabay Image API Demo with Swift Package Manager.
+<hr />
+<h3><a href="https://github.com/russell-archer/ImageApiAlamofire">Image API Alamofire</a></h3>
+Alamofire Pixabay Image API Demo with Swift Package Manager.<br/>
+<img src="./img/github-project-alamofire.jpg" />
 
-[SwiftUI and Combine Notifications](https://github.com/russell-archer/SwiftUI-Combine-NotificationDemo)<br/>
-Using SwiftUI and Combine extensions to NotificationCenter.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-Combine-NotificationDemo">SwiftUI and Combine Notifications</a></h3>
+Using SwiftUI and Combine extensions to NotificationCenter.<br/>
+<img src="./img/github-project-modal-combine.jpg" />
 
-[SwiftUI Hosting UIKit Views](https://github.com/russell-archer/SwiftUI-SwiftUIHostingUIKit)<br/>
-How to use UIKit UIView and UIViewController in SwiftUI.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-SwiftUIHostingUIKit">SwiftUI Hosting UIKit Views</a></h3>
+How to use UIKit UIView and UIViewController in SwiftUI.<br/>
+<img src="./img/github-project-swiftui-hosting.jpg" />
 
-[Hosting SwiftUI Views in UIKit](https://github.com/russell-archer/SwiftUI-UIKitHostingSwiftUI)<br/>
-Using UIHostingController to display a SwiftUI View in a UIKit app.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-UIKitHostingSwiftUI">Hosting SwiftUI Views in UIKit</a></h3>
+Using UIHostingController to display a SwiftUI View in a UIKit app.<br/>
+<img src="./img/github-project-modal-uikit-hosting-swiftui.gif" />
 
-[SwiftUI State](https://github.com/russell-archer/SwiftUI-StateDemo)<br/>
-Using state and binding to create a UI that responds to user input to modify internal state.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-StateDemo">SwiftUI State</a></h3>
+Using state and binding to create a UI that responds to user input to modify internal state.<br/>
+<img src="./img/github-project-statedemo.gif" />
 
-[SwiftUI Navigation Bar](https://github.com/russell-archer/SwiftUI-NavBarDemo)<br/>
-How to select either large navigation bar (the default) or a small, inline bar.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-NavBarDemo">SwiftUI Navigation Bar</a></h3>
+How to select either large navigation bar (the default) or a small, inline bar.<br/>
+<img src="./img/github-project-navbar.gif" />
 
-[SwiftUI List](https://github.com/russell-archer/SwiftUI-ListDemo)<br/>
-Creating an editable list with SwiftUI with support for navigation.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-ListDemo">SwiftUI List</a></h3>
+Creating an editable list with SwiftUI with support for navigation.<br/>
+<img src="./img/github-project-listdemo.gif" />
 
-[SwiftUI Image API](https://github.com/russell-archer/SwiftUI-ImageAPIDemo)<br/>
-Using SwiftUI to consume REST API with image data.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-ImageAPIDemo">SwiftUI Image API</a></h3>
+Using SwiftUI to consume REST API with image data.<br/>
+<img src="./img/github-project-swiftui-image-api.jpg" />
 
-[SwiftUI Alert](https://github.com/russell-archer/SwiftUI-AlertDemo)<br/>
-Using SwiftUI to display alerts, actionsheets and popovers.
+<hr />
+<h3><a href="https://github.com/russell-archer/SwiftUI-AlertDemo">SwiftUI Alert</a></h3>
+Using SwiftUI to display alerts, actionsheets and popovers.<br/>
+<img src="./img/github-project-swiftui-alert.jpg" />
 
-[Hangman Game](https://github.com/russell-archer/Hangman)<br/>
-Simple, non-graphical Hangman game.
+<hr />
+<h3><a href="https://github.com/russell-archer/Hangman">Hangman Game</a></h3>
+Simple, non-graphical Hangman game.<br/>
+<img src="./img/github-project-hangman.jpg" />
 
-[Siri Shortcuts. Show Random Color Demo](https://github.com/russell-archer/ShowRandomColor)<br/>
-Demo of Siri shortcuts for iOS 12 using Intents.
+<hr />
+<h3><a href="https://github.com/russell-archer/ShowRandomColor">Siri Shortcuts. Show Random Color Demo</a></h3>
+Demo of Siri shortcuts for iOS 12 using Intents.<br/>
 
-[Siri Shortcuts. PicSearch](https://github.com/russell-archer/PicSearch)<br/>
-Demo of Siri shortcuts for iOS 12 using NSUserActivity.
+<hr />
+<h3><a href="https://github.com/russell-archer/PicSearch">Siri Shortcuts. PicSearch</a></h3>
+Demo of Siri shortcuts for iOS 12 using NSUserActivity.<br/>
 
-[Pixabay Image API Demo](https://github.com/russell-archer/ImageApiDemo)<br/>
-App that requests image data using the Pixabay API.
+<hr />
+<h3><a href="https://github.com/russell-archer/ImageApiDemo">Pixabay Image API Demo</a></h3>
+App that requests image data using the Pixabay API.<br/>
 
-[Cal Demo](https://github.com/russell-archer/CalDemo)<br/>
-Demo for getting events from iOS calendars.
+<hr />
+<h3><a href="https://github.com/russell-archer/CalDemo">Calendar Demo</a></h3>
+Demo for getting events from iOS calendars.<br/>
