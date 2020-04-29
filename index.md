@@ -26,7 +26,9 @@ I have over 30 years experience in the industry in many different roles and with
 	<a href="mailto:russell.archer@mac.com">
 		<img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Email&message=Russell%20Archer&color=F76831">
 	</a>
-	<img src="https://img.shields.io/static/v1?style=flat-square&logo=Adobe-Acrobat-Reader&label=CV/Resume&message=PDF&color=green">
+    <a href="https://russell-archer.github.io/assets/russell-archer-cv-summary-2020.pdf">
+	   <img src="https://img.shields.io/static/v1?style=flat-square&logo=Adobe-Acrobat-Reader&label=CV/Resume&message=PDF&color=green">
+    </a>
 </p>
 
 <hr />
