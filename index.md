@@ -189,6 +189,10 @@ Technically, the main features of the app are:
 <h2 align="center">Recent GitHub Projects</h2>
 <p>&nbsp;</p>
 
+<h3><a href="https://github.com/russell-archer/PixabayCollections">PixabayCollections</a></h3>
+Programmatic UICollectionView with a Diffable Data Source consuming REST API.<br/>
+<img src="./img/pixabay-collections.png" />
+
 <h3><a href="https://github.com/russell-archer/AppleSignInDemo">Sign in with Apple</a></h3>
 How to use the new Sign in with Apple service in a UIKit and iOS 13 app.<br/>
 <img src="./img/github-project-signin-with-apple.jpg" />
