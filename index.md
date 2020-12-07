@@ -53,9 +53,6 @@ I have over 30 years experience in the industry in many different roles and with
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Firebase&label=Analytics&message=Firebase&color=FFCA28">
-    </a>
-    <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
@@ -91,18 +88,22 @@ purchases.
     </a>
 </p>
 
-Technically, the main features of the app are:
+From a development perspective, the main features of the app are:
 
-* <sub>Developed in ***Swift*** (currently ***Swift 5***)</sub>
-* <sub>A ***UISplitViewController*** allows selection of topic in the left (master) pane, with the a page of content shown in the right (detail) pane</sub>
-* <sub>Content is broken into *modules*, *topics*, *sub-topics* and *pages*, with the entire structure of the app's content defined as a dictionary in a ***.plist*** file, allowing for easy changes and additions</sub>
-* <sub>Navigation between *pages* uses a ***UISwipeGestureRecognizer*** to support swipe-left to advance to the next topic and swipe-right to go to the previous topic</sub>
-* <sub>Many exercises are timed and ***notifications*** are used to alert the user when their time is up</sub>
-* <sub>To enable easy changes and additions, text content is defined through ***HTML/Javascript*** and hosted in a ***WKWebView***</sub>
-* <sub>Two-way message interop between the iOS core of the app and Javascript uses ***WebKit***'s ability to evaluate JavaScript statements and handle messages from Javascript (***WKScriptMessageHandler***)</sub>
-* <sub>In-app purchases are made and restored using ***StoreKit*** and receipts validated using ***OpenSSL***</sub>
-* <sub>The app keeps track of completed exercises and syncs app state via *NSUbiquitousKeyValueStore* **iCloud key-value storage**</sub>
-* <sub>Analytics are handled via ***Fabric Crashlytics*** and ***Fabric Answers*** (recently transitioned to ***Google Firebase***)</sub>
+* Developed in **Swift 5**
+* A **UISplitViewController** allows selection of topics in the left (master) pane, with content shown in the right (detail) pane
+* Content is broken into *modules*, *topics*, *sub-topics* and *pages*, with the entire structure of the app's content defined as
+a dictionary in a *.plist* file, allowing for easy changes and additions
+* Navigation between pages uses a **UISwipeGestureRecognizer** to support swipe-left to advance to the next topic and swipe-right to
+go to the previous topic
+* Many exercises are timed and **notifications** are used to alert the user when their time is up
+* To enable easy changes and additions, text content is defined through **HTML/Javascript** and hosted in a **WKWebView**
+* Two-way message interop between the iOS core of the app and Javascript uses **WebKit**'s ability to evaluate JavaScript statements
+and handle messages from Javascript via **WKScriptMessageHandler**
+* In-app purchases are made and restored using **StoreKit** and receipts validated using a custom solution based on **OpenSSL**
+* The app keeps track of completed exercises and syncs app state via **NSUbiquitousKeyValueStore iCloud key-value storage**
+* Coming soon: **Widget**
+* Coming **App Clip**
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -166,12 +167,12 @@ location address and an *annotated* map showing the location and distance.
 
 Technically, the main features of the app are:
 
-* <sub>Developed in ***Swift*** (currently ***Swift 5***)</sub>
-* <sub>Uses the ***Contacts*** framework to import user-selected contact details</sub>
-* <sub>Uses ***CoreLocation*** to ***Geocode*** (get lat/long from an address) and ***Reverse Geocode*** (get address from lat/long)</sub>
-* <sub>Creates a custom bitmap graphics context to ***capture a map snapshot*** and ***annotate*** it with address info, etc.</sub>
-* <sub>Supports ***sharing*** with WhatsApp, email, etc.</sub>
-* <sub>Uses the ***MessageUI*** framework to send SMS messages</sub>
+* Developed in **Swift**
+* Uses the **Contacts** framework to import user-selected contact details
+* Uses **CoreLocation** to **Geocode** (get lat/long from an address) and **Reverse Geocode** (get address from lat/long)
+* Creates a custom bitmap graphics context to **capture a map snapshot** and **annotate** it with address info, etc.
+* Supports **sharing** with WhatsApp, email, etc.
+* Uses the **MessageUI** framework to send SMS messages
 
 <p align="center">
     <a href="https://russell-archer.github.io/Retreev/">
@@ -188,6 +189,18 @@ Technically, the main features of the app are:
 <hr />
 <h2 align="center">Recent GitHub Projects</h2>
 <p>&nbsp;</p>
+
+<h3><a href="https://github.com/russell-archer/IAPDemo">IAPDemo</a></h3>
+Implementing and testing In-App Purchases in Xcode 12 and iOS 14, including local receipt validation.<br/>
+<img src="./img/iapdemo1.png"
+
+<h3><a href="https://github.com/russell-archer/IAPHelper">IAPHelper</a></h3>
+In-App Purchase Helper solution, including support for on-device receipt validation.<br/>
+<img src="./img/iaphelper1.png"
+
+<h3><a href="https://github.com/russell-archer/HelloIAPWorld">HelloIAPWorld</a></h3>
+Minimal In-App Purchase example for iOS 14 and Xcode 12.<br/>
+<img src="./img/helloiapworld1.png"
 
 <h3><a href="https://github.com/russell-archer/PixabayCollections">PixabayCollections</a></h3>
 Programmatic UICollectionView with a Diffable Data Source consuming REST API.<br/>
