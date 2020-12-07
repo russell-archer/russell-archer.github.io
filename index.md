@@ -188,134 +188,137 @@ Technically, the main features of the app are:
 
 <hr />
 <h2 align="center">Recent GitHub Projects</h2>
+<p>&nbsp;</p>
 
 <h2 align="center"><a href="https://github.com/russell-archer/IAPDemo">IAPDemo</a></h2>
 <p align="center">
-    Implementing and testing In-App Purchases in Xcode 12 and iOS 14, including local receipt validation.<br/>
+    Implementing and testing In-App Purchases in Xcode 12 and iOS 14, including local receipt validation.<br/><br/>
     <img src="./img/iapdemo1.png"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/IAPHelper">IAPHelper</a></h2>
 <p align="center">
-    In-App Purchase Helper solution, including support for on-device receipt validation.<br/>
+    In-App Purchase Helper solution, including support for on-device receipt validation.<br/><br/>
     <img src="./img/iaphelper1.png"/>
 </p>    
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/HelloIAPWorld">HelloIAPWorld</a></h2>
 <p align="center">
-    Minimal In-App Purchase example for iOS 14 and Xcode 12.<br/>
+    Minimal In-App Purchase example for iOS 14 and Xcode 12.<br/><br/>
     <img src="./img/helloiapworld1.png"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/PixabayCollections">PixabayCollections</a></h2>
 <p align="center">
-    Programmatic UICollectionView with a Diffable Data Source consuming REST API.<br/>
+    Programmatic UICollectionView with a Diffable Data Source consuming REST API.<br/><br/>
     <img src="./img/pixabay-collections.png"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/AppleSignInDemo">Sign in with Apple</a></h2>
 <p align="center">
-    How to use the new Sign in with Apple service in a UIKit and iOS 13 app.<br/>
+    How to use the new Sign in with Apple service in a UIKit and iOS 13 app.<br/><br/>
     <img src="./img/github-project-signin-with-apple.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SpeechDictationDemo">Speech Dictation and Transcription Demo</a></h2>
 <p align="center">
-    An iOS speech recognition demo that transcribes live speech.<br/>
+    An iOS speech recognition demo that transcribes live speech.<br/><br/>
     <img src="./img/github-project-speech.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/DarkModeDemo-UIKit">Dark Mode. Updating an existing App Store app</a></h2>
 <p align="center">
-    Preparing for iOS 13 Dark Mode.<br/>
+    Preparing for iOS 13 Dark Mode.<br/><br/>
     <img src="./img/github-project-darkmode.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/ModalStylesDemo">iOS 13 Modal Styles Demo</a></h2>
 <p align="center">
-    Exploring the differences between presentViewController and pushViewController with new iOS 13 modal presentation styles.<br/>
+    Exploring the differences between presentViewController and pushViewController with new iOS 13 modal presentation styles.<br/><br/>
     <img src="./img/github-project-modal-styles.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/ContextMenuDemo">Context Menu Demo</a></h2>
 <p align="center">
-    How to display a context menu in iOS 13.<br/>
+    How to display a context menu in iOS 13.<br/><br/>
     <img src="./img/github-project-context-menu.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/ImageApiAlamofire">Image API Alamofire</a></h2>
 <p align="center">
-    Alamofire Pixabay Image API Demo with Swift Package Manager.<br/>
+    Alamofire Pixabay Image API Demo with Swift Package Manager.<br/><br/>
     <img src="./img/github-project-alamofire.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-Combine-NotificationDemo">SwiftUI and Combine Notifications</a></h2>
 <p align="center">
-    Using SwiftUI and Combine extensions to NotificationCenter.<br/>
+    Using SwiftUI and Combine extensions to NotificationCenter.<br/><br/>
     <img src="./img/github-project-modal-combine.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-SwiftUIHostingUIKit">SwiftUI Hosting UIKit Views</a></h2>
 <p align="center">
-    How to use UIKit UIView and UIViewController in SwiftUI.<br/>
+    How to use UIKit UIView and UIViewController in SwiftUI.<br/><br/>
     <img src="./img/github-project-swiftui-hosting.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-UIKitHostingSwiftUI">Hosting SwiftUI Views in UIKit</a></h2>
 <p align="center">
-    Using UIHostingController to display a SwiftUI View in a UIKit app.<br/>
+    Using UIHostingController to display a SwiftUI View in a UIKit app.<br/><br/>
     <img src="./img/github-project-modal-uikit-hosting-swiftui.gif"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-StateDemo">SwiftUI State</a></h2>
 <p align="center">
-    Using state and binding to create a UI that responds to user input to modify internal state.<br/>
+    Using state and binding to create a UI that responds to user input to modify internal state.<br/><br/>
     <img src="./img/github-project-statedemo.gif"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-NavBarDemo">SwiftUI Navigation Bar</a></h2>
 <p align="center">
-    How to select either large navigation bar (the default) or a small, inline bar.<br/>
+    How to select either large navigation bar (the default) or a small, inline bar.<br/><br/>
     <img src="./img/github-project-navbar.gif"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-ListDemo">SwiftUI List</a></h2>
 <p align="center">
-    Creating an editable list with SwiftUI with support for navigation.<br/>
+    Creating an editable list with SwiftUI with support for navigation.<br/><br/>
     <img src="./img/github-project-listdemo.gif"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-ImageAPIDemo">SwiftUI Image API</a></h2>
-Using SwiftUI to consume REST API with image data.<br/>
-<img src="./img/github-project-swiftui-image-api.jpg"/>
+<p align="center">
+    Using SwiftUI to consume REST API with image data.<br/><br/>
+    <img src="./img/github-project-swiftui-image-api.jpg"/>
+</p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-AlertDemo">SwiftUI Alert</a></h2>
 <p align="center">
-    Using SwiftUI to display alerts, actionsheets and popovers.<br/>
+    Using SwiftUI to display alerts, actionsheets and popovers.<br/><br/>
     <img src="./img/github-project-swiftui-alert.jpg"/>
 </p>
 
 <hr />
 <h2 align="center"><a href="https://github.com/russell-archer/Hangman">Hangman Game</a></h2>
 <p align="center">
-    Simple, non-graphical Hangman game.<br/>
+    Simple, non-graphical Hangman game.<br/><br/>
     <img src="./img/github-project-hangman.jpg"/>
 </p>
 
