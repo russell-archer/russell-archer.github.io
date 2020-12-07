@@ -188,16 +188,17 @@ Technically, the main features of the app are:
 
 <hr />
 <h2 align="center">Recent GitHub Projects</h2>
-<p>&nbsp;</p>
 
 <h3><a href="https://github.com/russell-archer/IAPDemo">IAPDemo</a></h3>
 Implementing and testing In-App Purchases in Xcode 12 and iOS 14, including local receipt validation.<br/>
 <img src="./img/iapdemo1.png"/>
 
+<hr />
 <h3><a href="https://github.com/russell-archer/IAPHelper">IAPHelper</a></h3>
 In-App Purchase Helper solution, including support for on-device receipt validation.<br/>
 <img src="./img/iaphelper1.png"/>
 
+<hr />
 <h3><a href="https://github.com/russell-archer/HelloIAPWorld">HelloIAPWorld</a></h3>
 Minimal In-App Purchase example for iOS 14 and Xcode 12.<br/>
 <img src="./img/helloiapworld1.png"/>
@@ -206,6 +207,7 @@ Minimal In-App Purchase example for iOS 14 and Xcode 12.<br/>
 Programmatic UICollectionView with a Diffable Data Source consuming REST API.<br/>
 <img src="./img/pixabay-collections.png"/>
 
+<hr />
 <h3><a href="https://github.com/russell-archer/AppleSignInDemo">Sign in with Apple</a></h3>
 How to use the new Sign in with Apple service in a UIKit and iOS 13 app.<br/>
 <img src="./img/github-project-signin-with-apple.jpg"/>
