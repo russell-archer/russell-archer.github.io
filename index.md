@@ -2,7 +2,7 @@
 layout: page
 title: Russell Archer
 subtitle: Portfolio for Russell Archer
-bigimg: /img/notebook-886532_1920.jpg
+bigimg: /img/keyboard-5017973_1920.jpg
 ---
 
 I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS apps with Swift.
@@ -342,4 +342,3 @@ Using SwiftUI to consume REST API with image data.<br/>
 <p align="center">
     Demo for getting events from iOS calendars.
 </p>
-    
