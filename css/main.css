@@ -20,10 +20,12 @@ body {
 p {
   line-height: 1.5;
   margin: 30px 0;
+  color: #F0F6FC;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  color: #F0F6FC;
 }
 a {
   color: {{ site.link-col }};
@@ -33,7 +35,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  color: #808080;
+  color: #F0F6FC;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -49,6 +51,7 @@ hr.small {
 
 .main-content {
   padding-top: 80px;
+  color: #F0F6FC;  
 }
 @media only screen and (min-width: 768px) {
   .main-content {
