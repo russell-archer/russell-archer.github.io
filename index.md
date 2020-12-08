@@ -74,7 +74,7 @@ I developed the app in cooperation with an award-winning creative writing tutor 
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/writerly-quote.png" />
+        <img src="./img/writerly-quote-dark.png" />
     </a>
 </p>
 
