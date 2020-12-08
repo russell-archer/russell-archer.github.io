@@ -161,7 +161,7 @@ location address and an *annotated* map showing the location and distance.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Retreev/">
-        <img src="./img/retreev-quote-big.jpg" />
+        <img src="./img/retreev-quote-big-dark.png" />
     </a>
 </p>
 
