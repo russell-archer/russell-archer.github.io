@@ -70,9 +70,9 @@ I have over 30 years experience in the industry in many different roles and with
 Developed with an award-winning creative writing tutor and author, **Writerly** is an iOS app designed to help users improve 
 their creative writing through a series of tried-and-tested techniques, tools and exercises. 
 
-It includes the ability to create random characters, moods, scenarios, locations, writing prompts, etc.
+The app includes the ability to create random characters, moods, scenarios, locations, writing prompts, etc.
 
-Originally developed for iOS in Swift 5 and UIKit, Writerly is currently (May 2021) being re-written the app from scratch for 
+Originally developed for iOS in Swift 5 and UIKit, Writerly is currently (May 2021) being re-written from scratch for 
 iOS, iPadOS, macOS, watchOS and tvOS in SwiftUI.
 
 <p align="center">
@@ -82,8 +82,8 @@ iOS, iPadOS, macOS, watchOS and tvOS in SwiftUI.
 </p>
 
 In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
-However, the app has been designed to provide real benefits to the user without cost. The free app isn't merely a vehicle for in-app
-purchases. In-app purchases are made and restored using **StoreKit** and receipts validated using a custom solution based on **OpenSSL**.
+However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made and restored 
+using **StoreKit** and receipts validated using a custom solution based on **OpenSSL**.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -150,8 +150,6 @@ location and distance.
         <img src="./img/retreev-quote-big-dark.png" />
     </a>
 </p>
-
-Technically, the main features of the app are:
 
 The app was developed in **Swift** and **UIKit** and uses the **Contacts** framework to import user-selected contact details and
 **CoreLocation** to **Geocode** (get lat/long from an address) and **Reverse Geocode** (get address from lat/long).
