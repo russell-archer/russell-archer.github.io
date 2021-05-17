@@ -67,10 +67,13 @@ I have over 30 years experience in the industry in many different roles and with
     <a href="https://russell-archer.github.io/Writerly/">Inspiration for Writers</a>
 </h3>
 
-**Writerly** is an iOS app designed to help users improve their creative writing through a series of tried-and-tested techniques, tools
-and exercises. It includes the ability to create random *characters*, *moods*, *scenarios*, *locations*, writing *prompts*, etc.
+Developed with an award-winning creative writing tutor and author, **Writerly** is an iOS app designed to help users improve 
+their creative writing through a series of tried-and-tested techniques, tools and exercises. 
 
-I developed the app in cooperation with an award-winning creative writing tutor and author.
+It includes the ability to create random characters, moods, scenarios, locations, writing prompts, etc.
+
+Originally developed for iOS in Swift 5 and UIKit, Writerly is currently (May 2021) being re-written the app from scratch for 
+iOS, iPadOS, macOS, watchOS and tvOS in SwiftUI.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -80,30 +83,13 @@ I developed the app in cooperation with an award-winning creative writing tutor 
 
 In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
 However, the app has been designed to provide real benefits to the user without cost. The free app isn't merely a vehicle for in-app
-purchases.
+purchases. In-app purchases are made and restored using **StoreKit** and receipts validated using a custom solution based on **OpenSSL**.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="./img/writerly-ad1.png" />
     </a>
 </p>
-
-From a development perspective, the main features of the app are:
-
-* Developed in **Swift 5**
-* A **UISplitViewController** allows selection of topics in the left (master) pane, with content shown in the right (detail) pane
-* Content is broken into *modules*, *topics*, *sub-topics* and *pages*, with the entire structure of the app's content defined as
-a dictionary in a *.plist* file, allowing for easy changes and additions
-* Navigation between pages uses a **UISwipeGestureRecognizer** to support swipe-left to advance to the next topic and swipe-right to
-go to the previous topic
-* Many exercises are timed and **notifications** are used to alert the user when their time is up
-* To enable easy changes and additions, text content is defined through **HTML/Javascript** and hosted in a **WKWebView**
-* Two-way message interop between the iOS core of the app and Javascript uses **WebKit**'s ability to evaluate JavaScript statements
-and handle messages from Javascript via **WKScriptMessageHandler**
-* In-app purchases are made and restored using **StoreKit** and receipts validated using a custom solution based on **OpenSSL**
-* The app keeps track of completed exercises and syncs app state via **NSUbiquitousKeyValueStore iCloud key-value storage**
-* Coming soon: **Widget**
-* Coming **App Clip**
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -155,9 +141,9 @@ and handle messages from Javascript via **WKScriptMessageHandler**
 and let them know exactly where you are!
 
 The app displays a map showing the user their current location and postal address. Tapping a contact zooms the map to show the
-location of both the user and the contact (sounds easy, but this was *tricky*!), as well as the distance between them.
-Tapping the "retreev" button generates an SMS message that includes a predefined (editable) message, the user's current
-location address and an *annotated* map showing the location and distance.
+location of both the user and the contact, as well as the distance between them. Tapping the "retreev" button generates an SMS 
+message that includes a predefined (editable) message, the user's current location address and an *annotated* map showing the 
+location and distance.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Retreev/">
@@ -167,12 +153,8 @@ location address and an *annotated* map showing the location and distance.
 
 Technically, the main features of the app are:
 
-* Developed in **Swift**
-* Uses the **Contacts** framework to import user-selected contact details
-* Uses **CoreLocation** to **Geocode** (get lat/long from an address) and **Reverse Geocode** (get address from lat/long)
-* Creates a custom bitmap graphics context to **capture a map snapshot** and **annotate** it with address info, etc.
-* Supports **sharing** with WhatsApp, email, etc.
-* Uses the **MessageUI** framework to send SMS messages
+The app was developed in **Swift** and **UIKit** and uses the **Contacts** framework to import user-selected contact details and
+**CoreLocation** to **Geocode** (get lat/long from an address) and **Reverse Geocode** (get address from lat/long).
 
 <p align="center">
     <a href="https://russell-archer.github.io/Retreev/">
@@ -189,6 +171,30 @@ Technically, the main features of the app are:
 <hr />
 <h2 align="center">Recent GitHub Projects</h2>
 <p>&nbsp;</p>
+
+<h2 align="center"><a href="https://github.com/russell-archer/MyGitHub">MyGitHub</a></h2>
+<p align="center">
+    A SwiftUI app that uses OAuth2 to authenticate a user on GitHub and allows viewing of the user's repos and profile.<br/><br/>
+    <img src="./img/oauth-github-app0.png"/>
+</p>
+
+<h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-KeyboardOverlapDemo">SwiftUI-KeyboardOverlapDemo</a></h2>
+<p align="center">
+    Adding support for avoiding the on-screen keyboard hiding important UI in SwiftUI apps.<br/><br/>
+    <img src="./img/handle-keyboard-overlapping-fields0.gif"/>
+</p>
+
+<h2 align="center"><a href="https://github.com/russell-archer/SwiftUIAPOD">SwiftUIAPOD</a></h2>
+<p align="center">
+    A simple SwiftUI Astronomy Picture of the Day demo app.<br/><br/>
+    <img src="./img/swiftui-apod-api2.png"/>
+</p>
+
+<h2 align="center"><a href="https://github.com/russell-archer/SwiftUINavDemo">SwiftUINavDemo</a></h2>
+<p align="center">
+    SwiftUI navigation demo. Shows navigation between multiple levels of views with a single NavigationView (avoiding multiple nav bars), and sharing data between views using @State, @StateObject and @EnvironmentObject.<br/><br/>
+    <img src="./img/avoiding-multiple-nav-views1.png"/>
+</p>
 
 <h2 align="center"><a href="https://github.com/russell-archer/IAPDemo">IAPDemo</a></h2>
 <p align="center">
