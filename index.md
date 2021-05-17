@@ -104,7 +104,6 @@ using **StoreKit** and receipts validated using a custom solution based on **Ope
 </p>
 
 <hr />
-
 <p align="center">
     <a href="https://russell-archer.github.io/Retreev/">
         <img src="./img/retreev-icon-rounded.png" />
@@ -254,7 +253,6 @@ The app was developed in **Swift** and **UIKit** and uses the **Contacts** frame
     <img src="./img/github-project-alamofire.jpg"/>
 </p>
 
-<hr />
 <h2 align="center"><a href="https://github.com/russell-archer/SwiftUI-Combine-NotificationDemo">SwiftUI and Combine Notifications</a></h2>
 <p align="center">
     Using SwiftUI and Combine extensions to NotificationCenter.<br/><br/>
