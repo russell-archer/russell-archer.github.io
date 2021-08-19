@@ -169,7 +169,7 @@ The app was developed in **Swift** and **UIKit** and uses the **Contacts** frame
 <h2 align="center">Recent GitHub Projects</h2>
 <p>&nbsp;</p>
 
-<h2 align="center"><a href="https://github.com/russell-archer/MyFilesExplorer">StoreHelper (In-App Purchases)</a></h2>
+<h2 align="center"><a href="https://github.com/russell-archer/StoreHelper">StoreHelper (In-App Purchases)</a></h2>
 <p align="center">
     Implementing and testing In-App Purchases with StoreKit2 in Xcode 13, Swift 5.5, iOS 15.<br/><br/>
     <img src="./img/store-helper-demo.gif"/>

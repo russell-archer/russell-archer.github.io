@@ -5,7 +5,7 @@ subtitle: Privacy Policy for Russell Archer's Portfolio
 bigimg: /img/keyboard-5017973_1920.jpg
 ---
 
-# Privacy Policy for Russel Archer
+# Privacy Policy for Russell Archer
 ## Policy summary
 
 This is the privacy policy for the website <strong>https://russell-archer.github.io/</strong>.
