@@ -20,9 +20,9 @@ description: Portfolio for Russell Archer
 
 # List of links in the navigation bar
 navbar-links:
-    Writerly: "https://russell-archer.github.io/Writerly/"
-    Retreev: "https://russell-archer.github.io/Retreev/"
-    Privacy Policy: "https://russell-archer.github.io/privacy.md"
+    Writerly:         "https://russell-archer.github.io/Writerly/"
+    Retreev:          "https://russell-archer.github.io/Retreev/"
+    Privacy Policy:   "https://russell-archer.github.io/privacy"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
