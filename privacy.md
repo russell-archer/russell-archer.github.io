@@ -8,14 +8,14 @@ bigimg: /img/keyboard-5017973_1920.jpg
 # Privacy Policy for Russel Archer
 ## Policy summary
 
-This is the privacy policy for the website https://russell-archer.github.io/.
+This is the privacy policy for the website <strong>https://russell-archer.github.io/</strong>.
 
 We are committed to safeguarding the privacy of our website visitors.
 This website is hosted on the <a href='https://pages.github.com/'>GitHub Pages</a> platform. 
 
 ## How we use your personal data
 
-We do not record or store any details about visitors to this website. Our hosting company (GitHub) may record and store the IP address of all visitors to this website. Please refer to the GitHub privacy policy for details (https://docs.github.com/en/github/site-policy/github-privacy-statement).
+We do not record or store any details about visitors to this website. Our hosting company (GitHub) may record and store the IP address of all visitors to this website. Please refer to the <a href='https://docs.github.com/en/github/site-policy/github-privacy-statement'>GitHub privacy policy</a> for details.
 
 ## Amendments
 
