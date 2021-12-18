@@ -53,7 +53,7 @@ I have over 30 years experience in the industry in many different roles and with
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=SwiftUI&label=Framework&message=UIKit&color=2396F3">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=SwiftUI&color=2396F3">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit2&color=941100">
