@@ -47,7 +47,7 @@ I have over 30 years experience in the industry in many different roles and with
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20|%20macOS%20|%20tvOS%20|%20watchOS&color=green">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20macOS%20|%20tvOS%20|%20watchOS&color=green">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
@@ -81,15 +81,15 @@ iOS, iPadOS, macOS, tvOS and watchOS using SwiftUI.
     </a>
 </p>
 
-In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
-However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made, validated and restored 
-using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russell-archer/StoreHelper">StoreHelper</a>).
-
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="./img/writerly-ad1.png" />
     </a>
 </p>
+
+In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
+However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made, validated and restored 
+using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russell-archer/StoreHelper">StoreHelper</a>).
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
