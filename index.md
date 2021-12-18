@@ -2,7 +2,7 @@
 layout: page
 title: Russell Archer
 subtitle: Portfolio for Russell Archer
-bigimg: /img/keyboard-5017973_1920.jpg
+bigimg: /img/siteBgSm.png
 ---
 
 I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS apps with Swift.
@@ -72,8 +72,8 @@ their creative writing through a series of tried-and-tested techniques, tools an
 
 The app includes the ability to create random characters, moods, scenarios, locations, writing prompts, etc.
 
-Originally developed for iOS in Swift 5 and UIKit, Writerly is currently (Aug 2021) being re-written from scratch for 
-iOS, iPadOS, macOS and watchOS in SwiftUI.
+Originally developed for iOS in Swift 5 and UIKit, it has recently (December 2021) been completely re-written from scratch for 
+iOS, iPadOS, macOS and watchOS using SwiftUI.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
