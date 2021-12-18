@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 subtitle: Privacy Policy for Russell Archer's Portfolio
-bigimg: /img/keyboard-5017973_1920.jpg
+bigimg: /img/siteBgSm.png
 ---
 
 # Privacy Policy for Russell Archer
