@@ -5,7 +5,7 @@ subtitle: Portfolio for Russell Archer
 bigimg: /img/siteBgSm.png
 ---
 
-I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS apps with Swift.
+I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS apps with Swift using SwiftUI and UIKit.
 I have over 30 years experience in the industry in many different roles and with a range of technologies.
 
 <p align="center">
@@ -53,7 +53,7 @@ I have over 30 years experience in the industry in many different roles and with
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=SwiftUI&color=2396F3">
+        <img src="https://img.shields.io/static/v1?label=Framework&message=SwiftUI&color=2396F3">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit2&color=941100">
