@@ -47,7 +47,7 @@ I have over 30 years experience in the industry in many different roles and with
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS&color=green">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20|%20macOS%20|%20tvOS&color=green">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
@@ -73,7 +73,7 @@ their creative writing through a series of tried-and-tested techniques, tools an
 The app includes the ability to create random characters, moods, scenarios, locations, writing prompts, etc.
 
 Originally developed for iOS in Swift 5 and UIKit, it has recently (December 2021) been completely re-written from scratch for 
-iOS, iPadOS, macOS and watchOS using SwiftUI.
+iOS, iPadOS, macOS, tvOS and watchOS using SwiftUI.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -82,8 +82,8 @@ iOS, iPadOS, macOS and watchOS using SwiftUI.
 </p>
 
 In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
-However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made and restored 
-using **StoreKit** and receipts validated using a custom solution based on **OpenSSL**.
+However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made, validated and restored 
+using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russell-archer/StoreHelper">StoreHelper (In-App Purchases)</a>).
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
