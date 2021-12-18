@@ -47,16 +47,16 @@ I have over 30 years experience in the industry in many different roles and with
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20|%20macOS%20|%20tvOS&color=green">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20|%20macOS%20|%20tvOS%20|%20watchOS&color=green">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=UIKit&label=Framework&message=UIKit&color=2396F3">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=SwiftUI&label=Framework&message=UIKit&color=2396F3">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit&color=941100">
+        <img src="https://img.shields.io/static/v1?label=Framework&message=StoreKit2&color=941100">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?label=Framework&message=MapKit&color=942192">
@@ -83,7 +83,7 @@ iOS, iPadOS, macOS, tvOS and watchOS using SwiftUI.
 
 In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
 However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made, validated and restored 
-using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russell-archer/StoreHelper">StoreHelper (In-App Purchases)</a>).
+using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russell-archer/StoreHelper">StoreHelper</a>).
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -93,13 +93,7 @@ using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russ
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/writerly-ss1.png" />
-    </a>
-    <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/writerly-ss4.png" />
-    </a>
-    <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/writerly-ss5.png" />
+        <img src="./img/writerly-v2-sm.png" />
     </a>
 </p>
 
