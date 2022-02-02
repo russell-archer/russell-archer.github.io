@@ -76,7 +76,7 @@ Originally developed for iOS in Swift 5 and UIKit, Writerly has been completely 
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/writerly-ad1.png" />
+        <img src="./img/mac-device0.png" />
     </a>
 </p>
 
@@ -86,7 +86,7 @@ using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russ
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/writerly-v2-sm.png" />
+        <img src="./img/mycDevicePromo1.png" />
     </a>
 </p>
 
