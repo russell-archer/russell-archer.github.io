@@ -1,2 +1,2 @@
 # Portfolio for Russell Archer
-## Developing iOS apps with Swift
+## Developing iOS and macOS apps with Swift

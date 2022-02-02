@@ -2,18 +2,14 @@
 layout: page
 title: Russell Archer
 subtitle: Portfolio for Russell Archer
-bigimg: /img/siteBgSm.png
+bigimg: /img/woman-with-book.png
 ---
 
-I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS apps with Swift using SwiftUI and UIKit.
+I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS and macOS apps with Swift, SwiftUI and UIKit.
 I have over 30 years experience in the industry in many different roles and with a range of technologies.
 
 <p align="center">
     <img src="./img/designCons-2.png" />
-</p>
-
-<p align="center">
-    <strong>Contact me for availability for iOS app development projects and contracts</strong>
 </p>
 
 <p align="center">
@@ -32,7 +28,7 @@ I have over 30 years experience in the industry in many different roles and with
 </p>
 
 <hr />
-<h1 align="center">Recent App Store Projects</h1>
+<h1 align="center">My Apps</h1>
 <p>&nbsp;</p>
 
 <p align="center">
@@ -47,7 +43,7 @@ I have over 30 years experience in the industry in many different roles and with
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
-        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20macOS%20|%20tvOS%20|%20watchOS&color=green">
+        <img src="https://img.shields.io/static/v1?style=flat-square&logo=Apple&label=Platform&message=iOS%20|%20macOS&color=green">
     </a>
     <a href="https://russell-archer.github.io/Writerly/">
         <img src="https://img.shields.io/static/v1?style=flat-square&logo=Swift&label=Language&message=Swift&color=FA7343">
@@ -64,16 +60,13 @@ I have over 30 years experience in the industry in many different roles and with
 </p>
 
 <h3 align="center">
-    <a href="https://russell-archer.github.io/Writerly/">Inspiration for Writers</a>
+    <a href="https://russell-archer.github.io/Writerly/">Think like a Writer</a>
 </h3>
 
-Developed with an award-winning creative writing tutor and author, **Writerly** is an iOS app designed to help users improve 
+Developed by an award-winning writing team and prize-winning authors, **Writerly** is an iOS app designed to help users improve 
 their creative writing through a series of tried-and-tested techniques, tools and exercises. 
 
-The app includes the ability to create random characters, moods, scenarios, locations, writing prompts, etc.
-
-Originally developed for iOS in Swift 5 and UIKit, it has recently (December 2021) been completely re-written from scratch for 
-iOS, iPadOS, macOS, tvOS and watchOS using SwiftUI.
+Originally developed for iOS in Swift 5 and UIKit, Writerly has been completely re-written from scratch for iOS, iPadOS and macOS using SwiftUI.
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -160,12 +153,12 @@ The app was developed in **Swift** and **UIKit** and uses the **Contacts** frame
 </p>
 
 <hr />
-<h2 align="center">Recent GitHub Projects</h2>
+<h2 align="center">Other Projects</h2>
 <p>&nbsp;</p>
 
 <h2 align="center"><a href="https://github.com/russell-archer/StoreHelper">StoreHelper (In-App Purchases)</a></h2>
 <p align="center">
-    Implementing and testing In-App Purchases with StoreKit2 in Xcode 13, Swift 5.5, iOS 15.<br/><br/>
+    Implementing and testing In-App Purchases with StoreKit2 in Xcode 13, Swift 5.5, iOS 15 and macOS 12.<br/><br/>
     <img src="./img/store-helper-demo.gif"/>
 </p>
 
