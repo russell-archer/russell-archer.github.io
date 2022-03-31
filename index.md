@@ -6,7 +6,7 @@ bigimg: /img/woman-with-book.png
 ---
 
 I'm a software developer based in London and Sevenoaks, UK, where I'm currently creating iOS and macOS apps with Swift, SwiftUI and UIKit.
-I have over 30 years experience in the industry in many different roles and with a range of technologies.
+I have over 35 years experience in the industry in many different roles and with a range of technologies.
 
 <p align="center">
     <img src="./img/designCons-2.png" />
@@ -63,10 +63,23 @@ I have over 30 years experience in the industry in many different roles and with
     <a href="https://russell-archer.github.io/Writerly/">Think like a Writer</a>
 </h3>
 
-Developed by an award-winning writing team and prize-winning authors, **Writerly** is an iOS app designed to help users improve 
-their creative writing through a series of tried-and-tested techniques, tools and exercises. 
+## Want to write? Start thinking like a writer! Writerly will show you how.
 
-Originally developed for iOS in Swift 5 and UIKit, Writerly has been completely re-written from scratch for iOS, iPadOS and macOS using SwiftUI.
+Writerly is for everyone interested in creative writing. From first steps to advanced topics, Writerly is loaded with advice, exercises, ideas and prompts to help you develop as a writer, whether you’re a beginner or a seasoned pro. And our unique and addictive ‘generators’ will inspire and delight you!
+
+Have fun while you learn tried and tested techniques to unlock your creativity. It’s like having your own personal creative writing tutor!
+
+Writerly includes a huge amount of unique content that has been extensively tested and trialled by professional authors and creative writing students. So have fun, get inspired and get writing!
+
+## Developed by an award-winning team
+
+Writerly is developed by a team which includes:
+
+- A writer whose work has won multiple awards nationally and internationally. She has over fifteen years' experience teaching creative writing in schools, adult education institutes and universities, and twenty years as a literary consultant whose clients have gone on to secure agents, see their work published, staged and winning awards
+
+- A prize-winning author whose novels have been published in the USA, UK, Germany, France, Japan and more.
+
+- A software developer with over 35 years of professional experience in the software industry
 
 <p align="center">
     <a href="https://russell-archer.github.io/Writerly/">
@@ -80,15 +93,7 @@ Originally developed for iOS in Swift 5 and UIKit, Writerly has been completely 
     </a>
 </p>
 
-In-app purchases allow the user to add functionality related to specific creative writing concepts, such as character development.
-However, the app has been designed to provide real benefits to the user without cost. In-app purchases are made, validated and restored 
-using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russell-archer/StoreHelper">StoreHelper</a>).
-
-<p align="center">
-    <a href="https://russell-archer.github.io/Writerly/">
-        <img src="./img/mycDevicePromo1.png" />
-    </a>
-</p>
+Originally developed for iOS in Swift 5 and UIKit, Writerly has been completely re-written from scratch for iOS, iPadOS and macOS using **SwiftUI**.
 
 <hr />
 <p align="center">
@@ -126,9 +131,9 @@ using a custom **StoreKit2**-based soltion (see <a href="https://github.com/russ
 **Retreev** was developed in reponse to a simple, but common problem: how to *quickly and easily* request a ride home from a parent or friend
 and let them know exactly where you are!
 
-The app displays a map showing the user their current location and postal address. Tapping a contact zooms the map to show the
-location of both the user and the contact, as well as the distance between them. Tapping the "retreev" button generates an SMS 
-message that includes a predefined (editable) message, the user's current location address and an *annotated* map showing the 
+The app displays a map showing your current location and postal address. Tapping a contact zooms the map to show the
+location of both you and the contact, as well as the distance between you. Tapping the "retreev" button generates an SMS 
+message that includes a predefined (editable) message, your current location address and an *annotated* map showing the 
 location and distance.
 
 <p align="center">
