@@ -25,7 +25,7 @@ We may update this policy from time to time by publishing a new version on our w
 
 This website is operated by Russell Archer.
 
-**Latest update: 2 February, 2022**
+**Latest update: 23 Jan, 2023**
 
 
 
